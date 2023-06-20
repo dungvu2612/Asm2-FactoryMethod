@@ -1,0 +1,15 @@
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/bin/Debug/net6.0/ShoesFactory3
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/bin/Debug/net6.0/ShoesFactory3.deps.json
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/bin/Debug/net6.0/ShoesFactory3.runtimeconfig.json
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/bin/Debug/net6.0/ShoesFactory3.dll
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/bin/Debug/net6.0/ShoesFactory3.pdb
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/obj/Debug/net6.0/ShoesFactory3.csproj.AssemblyReference.cache
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/obj/Debug/net6.0/ShoesFactory3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/obj/Debug/net6.0/ShoesFactory3.AssemblyInfoInputs.cache
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/obj/Debug/net6.0/ShoesFactory3.AssemblyInfo.cs
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/obj/Debug/net6.0/ShoesFactory3.csproj.CoreCompileInputs.cache
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/obj/Debug/net6.0/ShoesFactory3.dll
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/obj/Debug/net6.0/refint/ShoesFactory3.dll
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/obj/Debug/net6.0/ShoesFactory3.pdb
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/obj/Debug/net6.0/ShoesFactory3.genruntimeconfig.cache
+/Users/vutandung/Documents/1651-AdvancedProgramming/ShoesFactory3/obj/Debug/net6.0/ref/ShoesFactory3.dll
